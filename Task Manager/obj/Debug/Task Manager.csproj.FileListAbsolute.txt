@@ -1,0 +1,30 @@
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\Task Manager.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\Task Manager.pdb
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\Antlr3.Runtime.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.AspNet.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.Core.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.OAuth.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.OpenId.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\EntityFramework.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\System.Web.Optimization.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\System.Web.Providers.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\WebGrease.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\EntityFramework.xml
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.Core.xml
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.OAuth.xml
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.OpenId.xml
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\bin\DotNetOpenAuth.AspNet.xml
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\obj\Debug\Task Manager.csprojResolveAssemblyReference.cache
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\obj\Debug\Task Manager.dll
+c:\users\mobimp\documents\visual studio 2012\Projects\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
