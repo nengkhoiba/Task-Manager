@@ -22,9 +22,9 @@ namespace Task_Manager
 
         protected void btn_save_Click(object sender, EventArgs e)
         {
-            string title = txt_title.Text;
-            string detail = txt_details.Text;
-            string summary = txt_summary.Text;
+            string title = txt_title.Value;
+            string detail = txt_details.Value;
+            string summary = txt_summary.Value;
             
             SqlParameter[] arParms = new SqlParameter[3];
 
@@ -40,7 +40,12 @@ namespace Task_Manager
 
             sqlReader = SqlHelper.ExecuteReader(GlobalConstant.ConnectionString, CommandType.StoredProcedure, "Add_task", arParms);
             List<int> lstUser = ORHelper<int>.FromDataReaderToList(sqlReader);
-
+            if (lstUser.Count > 0) {
+                string msg = "<div class='alert alert-success'>" +
+                            "Succesfully Save!" +
+                        "</div>";
+                msgbox.InnerHtml = msg;
+            }
             //string connectionString = ConfigurationManager.ConnectionStrings["SqlConnectionString11"].ConnectionString;
             //string SqlQuery = "INSERT INTO [dbo].[Task] ([Title],[Details]  ,[Summary])VALUES ('"+title+"' ,'"+detail+"','"+summary+"')";
           

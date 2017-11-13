@@ -22,13 +22,13 @@ namespace Task_Manager {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// Panel1 control.
+        /// msgbox control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Panel Panel1;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl msgbox;
         
         /// <summary>
         /// txt_title control.
@@ -37,7 +37,7 @@ namespace Task_Manager {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_title;
+        protected global::System.Web.UI.HtmlControls.HtmlInputText txt_title;
         
         /// <summary>
         /// txt_details control.
@@ -46,7 +46,7 @@ namespace Task_Manager {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_details;
+        protected global::System.Web.UI.HtmlControls.HtmlInputText txt_details;
         
         /// <summary>
         /// txt_summary control.
@@ -55,7 +55,7 @@ namespace Task_Manager {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_summary;
+        protected global::System.Web.UI.HtmlControls.HtmlTextArea txt_summary;
         
         /// <summary>
         /// btn_save control.
